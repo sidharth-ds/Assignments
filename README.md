@@ -1,2 +1,2 @@
-# Assignments of sidharth
+# Assignments of Sidharth
  assignments
