@@ -1,1 +1,1 @@
-# assignments, practice codes.
+# assignments, practise codes
