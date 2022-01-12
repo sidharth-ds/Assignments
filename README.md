@@ -10,4 +10,4 @@
 ## Matplotlib assignment
 
     - subplot2grid()  
-      ![matplot](https://user-images.githubusercontent.com/93982828/149071175-09cdb1f0-f0f6-4d52-9394-8a3ed33f309e.png)
+   ![matplot](https://user-images.githubusercontent.com/93982828/149071175-09cdb1f0-f0f6-4d52-9394-8a3ed33f309e.png)
