@@ -1,1 +1,1 @@
-# basic codes
+![App Screenshot](matplot.png)
