@@ -11,3 +11,8 @@
 
     - subplot2grid()  
    ![matplot](https://user-images.githubusercontent.com/93982828/149071175-09cdb1f0-f0f6-4d52-9394-8a3ed33f309e.png)
+   
+   
+![matplot small](https://user-images.githubusercontent.com/93982828/149071870-664658d9-3936-4220-9ef0-600d6f070413.png)
+
+
